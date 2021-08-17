@@ -17,7 +17,7 @@
 
 ```apt-get install tor```
 
-```git clone https://github.com/Ha3MrX/InstaBrute```
+```git clone https://github.com/sunaif-adkar2/insta-bruteforce```
 
 ```cd InstaBrute```
 
