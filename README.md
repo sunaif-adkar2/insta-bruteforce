@@ -24,4 +24,4 @@
 
 ```./insta.sh```
 
-##### please use this tool for education purpose only
+#### please use this tool for education purpose only
