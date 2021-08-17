@@ -1,7 +1,6 @@
-# InstaBrute
 # InstaBrute Two Ways to Brute-force Instagram Account Hacking
 
-### what is a InstaBrute
+### what is a Insta-bruteforce
 
 ```Instagram contained two distinct vulnerabilities that allowed an attacker to brute-force```
 ```passwords of user accounts. Combined with user enumeration, a weak password policy```
@@ -24,3 +23,5 @@
 ```chmod +x insta.sh```
 
 ```./insta.sh```
+
+##### please use this tool for education purpose only
