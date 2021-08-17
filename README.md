@@ -9,5 +9,18 @@
 ```many accounts without any user interaction, including high-profile ones. ``` 
 ```Facebook fixed both issues and awarded a combined bounty of $5.000.```
 
+## SET-UP 🍁
 
 
+
+
+
+```apt-get install tor```
+
+```git clone https://github.com/Ha3MrX/InstaBrute```
+
+```cd InstaBrute```
+
+```chmod +x insta.sh```
+
+```./insta.sh```
